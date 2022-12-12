@@ -11,7 +11,7 @@ int main()
     //gives random no. betn 1 and 100
     //printf("The number is %d\n",number);
     do{
-        printf("Guess the number between 1 to 100%d\n",number);
+        printf("Guess the number between 1 to 100\n");
         scanf("%d",&guess);
         
         if(guess>number){
